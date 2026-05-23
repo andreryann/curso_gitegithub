@@ -1,5 +1,6 @@
 testando!
    
+<<<<<<< HEAD
 Testando eree
 eree
 ererr
@@ -8,3 +9,11 @@ yggsd
 
 sd
 fg3
+=======
+Testando 
+werfeere
+ere
+rer
+erer
+eree
+>>>>>>> 0435211c5ec9b445edaf80498936157d7058d77b
